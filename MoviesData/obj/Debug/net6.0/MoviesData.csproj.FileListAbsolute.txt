@@ -1,0 +1,42 @@
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.deps.json
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.runtimeconfig.json
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.dll
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.pdb
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.csproj.AssemblyReference.cache
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.AssemblyInfoInputs.cache
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.AssemblyInfo.cs
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.csproj.CoreCompileInputs.cache
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.dll
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\obj\Debug\net6.0\refint\MoviesData.dll
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.pdb
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.genruntimeconfig.cache
+C:\Users\jwarpech\source\repos\MoviesMVCApp\MoviesData\obj\Debug\net6.0\ref\MoviesData.dll
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.deps.json
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.runtimeconfig.json
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.dll
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.pdb
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.csproj.AssemblyReference.cache
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.AssemblyInfoInputs.cache
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.AssemblyInfo.cs
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.csproj.CoreCompileInputs.cache
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.dll
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\obj\Debug\net6.0\refint\MoviesData.dll
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.pdb
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.genruntimeconfig.cache
+C:\Users\jolaw\Downloads\MoviesMVCApp\MoviesData\obj\Debug\net6.0\ref\MoviesData.dll
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.deps.json
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.runtimeconfig.json
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.dll
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\bin\Debug\net6.0\MoviesData.pdb
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.csproj.AssemblyReference.cache
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.AssemblyInfoInputs.cache
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.AssemblyInfo.cs
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.csproj.CoreCompileInputs.cache
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.dll
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\obj\Debug\net6.0\refint\MoviesData.dll
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.pdb
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\obj\Debug\net6.0\MoviesData.genruntimeconfig.cache
+C:\Users\922747\Desktop\True Movies\MoviesMVCApp\MoviesData\obj\Debug\net6.0\ref\MoviesData.dll
